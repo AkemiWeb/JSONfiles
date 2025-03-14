@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Готель Monastero Santa Rosa",
+    "location": "Салерно, Італія",
+    "stars": 5,
+    "image": "img/card-hotel.png",
+    "price": 500
+  },
+  {
+    "name": "Гранд Готель Тремеццо",
+    "location": "Озеро Комо, Італія",
+    "stars": 3,
+    "image": "img/card-hotel1.png",
+    "price": 650
+  },
+  {
+    "name": "Оберої Удайвілас, Удайпур",
+    "location": "Удайпур, Індія",
+    "stars": 4,
+    "image": "img/card-hotel2.png",
+    "price": 380
+  },
+  {
+    "name": "АКА Беверлі Хіллз",
+    "location": "Лос-Анджелес, США",
+    "stars": 3,
+    "image": "img/card-hotel3.png",
+    "price": 620
+  },
+  {
+    "name": "Готель Резидент",
+    "location": "Марсель, Італія",
+    "stars": 2,
+    "image": "img/card-hotel4.jpg",
+    "price": 520
+  },
+  {
+    "name": "Готель Redisson",
+    "location": "Маямі, США",
+    "stars": 3,
+    "image": "img/card-hotel5.jpg",
+    "price": 670
+  },
+  {
+    "name": "Готель Олімп",
+    "location": "Стамбул, Туреччина",
+    "stars": 5,
+    "image": "img/card-hotel6.jpg",
+    "price": 460
+  },
+  {
+    "name": "Готель Paradise",
+    "location": "Каліфорнія, США",
+    "stars": 4,
+    "image": "img/card-hotel7.jpg",
+    "price": 550
+  }
+]
