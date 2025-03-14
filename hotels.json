@@ -5,7 +5,7 @@
     "location": "Салерно, Італія",
     "stars": 5,
     "image": "img/card-hotel.png",
-    "price": 500,
+    "price": 8500,
     "activities": [1, 5, 6]
   },
   {
@@ -14,7 +14,7 @@
     "location": "Озеро Комо, Італія",
     "stars": 3,
     "image": "img/card-hotel1.png",
-    "price": 650,
+    "price": 9000,
     "activities": [1, 5, 6]
   },
   {
@@ -23,7 +23,7 @@
     "location": "Поляниця, Україна",
     "stars": 4,
     "image": "img/card-hotel2.png",
-    "price": 380,
+    "price": 4500,
     "activities": [2, 3, 4]
   },
   {
@@ -32,7 +32,7 @@
     "location": "Лос-Анджелес, США",
     "stars": 3,
     "image": "img/card-hotel3.png",
-    "price": 620,
+    "price": 7300,
     "activities": [1, 6]
   },
   {
@@ -41,7 +41,7 @@
     "location": "Марсель, Італія",
     "stars": 2,
     "image": "img/card-hotel4.jpg",
-    "price": 520,
+    "price": 8900,
     "activities": [1, 5]
   },
   {
@@ -50,7 +50,7 @@
     "location": "Маямі, США",
     "stars": 3,
     "image": "img/card-hotel5.jpg",
-    "price": 670,
+    "price": 9200,
     "activities": [1, 4, 6]
   },
   {
@@ -59,7 +59,7 @@
     "location": "Стамбул, Туреччина",
     "stars": 5,
     "image": "img/card-hotel6.jpg",
-    "price": 460,
+    "price": 6800,
     "activities": [1, 5, 6]
   },
   {
@@ -68,7 +68,7 @@
     "location": "Каліфорнія, США",
     "stars": 4,
     "image": "img/card-hotel7.jpg",
-    "price": 550,
+    "price": 7900,
     "activities": [1, 4, 6]
   }
 ]
