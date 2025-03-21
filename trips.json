@@ -17,7 +17,7 @@
         "duration": "5 днів",
         "price": "5000 UAH",
         "route": "Рахів - Ділове - Піп Іван Мармароський",
-        "mapLink": "https://goo.gl/maps/abc456"
+        "mapLink": "https://maps.app.goo.gl/9ucT7SjMyeunMLbS9"
     },
     {
         "image": "media/tripcard3.jpeg",
@@ -27,7 +27,7 @@
         "duration": "2 дні",
         "price": "2500 UAH",
         "route": "Верховина - Красник - Менчул",
-        "mapLink": "https://goo.gl/maps/def789"
+        "mapLink": "https://maps.app.goo.gl/4n22wrPZreZ4NkZE9"
     },
     {
         "image": "media/tripcard4.jpeg",
@@ -37,7 +37,7 @@
         "duration": "6 днів",
         "price": "6000 UAH",
         "route": "Яремче - Бистрець - Ребра",
-        "mapLink": "https://goo.gl/maps/ghi012"
+        "mapLink": "https://maps.app.goo.gl/Uwv5tyGnLzeWtwcd7"
     },
     {
         "image": "media/tripcard5.jpeg",
@@ -47,7 +47,7 @@
         "duration": "4 дні",
         "price": "4500 UAH",
         "route": "Рахів - Луги - Гутин Томнатик",
-        "mapLink": "https://goo.gl/maps/jkl345"
+        "mapLink": "https://maps.app.goo.gl/9yBkBB5CWK3gwG7P6"
     },
     {
         "image": "media/tripcard6.jpeg",
@@ -57,7 +57,7 @@
         "duration": "6 днів",
         "price": "5500 UAH",
         "route": "Ворохта - Козьмещик - Петрос",
-        "mapLink": "https://goo.gl/maps/mno678"
+        "mapLink": "https://maps.app.goo.gl/sGuw9jQancyE4v5J7"
     },
     {
         "image": "media/tripcard7.jpg",
@@ -67,7 +67,7 @@
         "duration": "5 днів",
         "price": "4800 UAH",
         "route": "Верховина - Шибене - Піп Іван Чорногірський",
-        "mapLink": "https://goo.gl/maps/pqr901"
+        "mapLink": "https://maps.app.goo.gl/vXKg1dXKwkxdk5uC9"
     },
     {
         "image": "media/tripcard10.jpg",
@@ -77,7 +77,7 @@
         "duration": "6 днів",
         "price": "5200 UAH",
         "route": "Ворохта - Заросляк - Брескул",
-        "mapLink": "https://goo.gl/maps/stu234"
+        "mapLink": "https://maps.app.goo.gl/5KpMgJh6EZNm1U3p7"
     },
     {
         "image": "media/tripcard9.jpeg",
@@ -87,6 +87,6 @@
         "duration": "3 дні",
         "price": "3700 UAH",
         "route": "Дземброня - Вухатий Камінь - Бребенескул",
-        "mapLink": "https://goo.gl/maps/vwx567"
+        "mapLink": "https://maps.app.goo.gl/cUTxTtm6pJzQHGkYA"
     }
 ]
