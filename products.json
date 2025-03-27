@@ -1,0 +1,37 @@
+ [
+    {
+        "id": 1,
+        "title": "Підписка на Meta Quest+ (1 місяць)",
+        "description": "Доступ до всіх функцій VR-простору на 1 місяць.",
+        "price": "7.99$",
+        "image": "/img/vr_subscription_1.webp"
+    },
+    {
+        "id": 2,
+        "title": "Підписка на Meta Quest+ (3 місяці)",
+        "description": "Доступ до всіх функцій VR-простору на 3 місяці.",
+        "price": "19.99$",
+        "image": "/img/vr_subscription_1.webp"
+    },
+    {
+        "id": 3,
+        "title": "Підписка на Meta Quest+ (1 рік)",
+        "description": "Доступ до всіх функцій VR-простору на 1 рік.",
+        "price": "59.99$",
+        "image": "/img/vr_subscription_1.webp"
+    },
+    {
+        "id": 4,
+        "title": "VR-гарнітура Meta Quest 2",
+        "description": "Окуляри для віртуальної реальності.",
+        "price": "350$",
+        "image": "/img/oculus-quest.jpeg"
+    },
+    {
+        "id": 5,
+        "title": "Контролер для VR Meta Quest 2",
+        "description": "Ергономічний контролер для комфортного використання VR-простору.",
+        "price": "150$",
+        "image": "/img/controller.jpg"
+    }
+]
