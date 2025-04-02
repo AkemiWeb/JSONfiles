@@ -54,16 +54,16 @@
         "img": "img/redgrapes.png"
     },
     {
-        "name": "Білі гриби",
-        "price": 40,
-        "category": "Гриби",
-        "img": "img/mashrooms.jpg"
+        "name": "Творог",
+        "price": 60,
+        "category": "Сири",
+        "img": "img/cottagecheese.jpg"
     },
     {
-        "name": "Лисички",
-        "price": 40,
-        "category": "Гриби",
-        "img": "img/mashrooms2.jpg"
+        "name": "Сир",
+        "price": 50,
+        "category": "Сири",
+        "img": "img/cheese.jpg"
     },
     {
         "name": "Клубніка",
