@@ -1,0 +1,56 @@
+[
+  {
+    "category": "Спальня",
+    "title": "Мінімалістична спальня",
+    "subtitle": "Декор / Архітектура",
+    "image": "img/Rectangle6.png"
+  },
+    {
+    "category": "Спальня",
+    "title": "Яскрава спальня",
+    "subtitle": "Декор / Архітектура",
+    "image": "img/Rectangle7.png"
+  },
+    {
+    "category": "Спальня",
+    "title": "Зелена спальня",
+    "subtitle": "Декор / Архітектура",
+    "image": "img/Rectangle8.png"
+  },
+    {
+    "category": "Спальня",
+    "title": "Вишукана спальня",
+    "subtitle": "Декор / Архітектура",
+    "image": "img/Rectangle9.png"
+  },
+    {
+    "category": "Спальня",
+    "title": "Розкішна спальня",
+    "subtitle": "Декор / Архітектура",
+    "image": "img/Rectangle10.png"
+  },
+    {
+    "category": "Спальня",
+    "title": "Звичайна спальня",
+    "subtitle": "Декор / Архітектура",
+    "image": "img/Rectangle11.png"
+  },
+  {
+    "category": "Кухня",
+    "title": "Світла кухня",
+    "subtitle": "Дизайн / Простір",
+    "image": "img/kitchen1.png"
+  },
+    {
+    "category": "Вітальня",
+    "title": "Простора вітальня",
+    "subtitle": "Дизайн / Простір",
+    "image": "img/livingroom1.png"
+  },
+  {
+    "category": "Ванна",
+    "title": "Сучасна ванна",
+    "subtitle": "Інтер'єр / Функціональність",
+    "image": "img/bathroom1.png"
+  }
+]
