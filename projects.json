@@ -41,16 +41,34 @@
     "subtitle": "Дизайн / Простір",
     "image": "img/kitchen1.png"
   },
-    {
+  {
+    "category": "Кухня",
+    "title": "Естетична кухня",
+    "subtitle": "Дизайн / Простір",
+    "image": "img/kitchen2.png"
+  },
+  {
     "category": "Вітальня",
     "title": "Простора вітальня",
     "subtitle": "Дизайн / Простір",
     "image": "img/livingroom1.png"
   },
   {
+    "category": "Вітальня",
+    "title": "Вишукана вітальня",
+    "subtitle": "Дизайн / Простір",
+    "image": "img/livingroom2.png"
+  },
+  {
     "category": "Ванна",
     "title": "Сучасна ванна",
     "subtitle": "Інтер'єр / Функціональність",
     "image": "img/bathroom1.png"
+  },
+  {
+    "category": "Ванна",
+    "title": "Екологічна ванна",
+    "subtitle": "Інтер'єр / Функціональність",
+    "image": "img/bathroom2.png"
   }
 ]
