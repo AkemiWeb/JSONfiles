@@ -4,7 +4,7 @@
       "title": "Україна",
       "description": "Зануртесь у мальовничі Карпати, старовинні міста та традиційну гостинність.",
       "image": "../img/card-json.png",
-      "label": "Усі пакети",
+      "popularity": "Класика",
       "url": "../packs/ukraine.html",
       "type": "Економ"
     },
@@ -12,7 +12,7 @@
       "title": "Австрія",
       "description": "Катайтеся на лижах у Тіролі та насолоджуйтесь чарівною атмосферою Відня.",
       "image": "../img/card-json1.png",
-      "label": "Усі пакети",
+      "popularity": "Хіт сезону",
       "url": "../packs/austria.html",
       "type": "Преміум"
     },
@@ -20,7 +20,7 @@
       "title": "Швейцарія",
       "description": "Відкрийте засніжені Альпи, затишні шале та смакуйте справжній швейцарський шоколад.",
       "image": "../img/card-json3.png",
-      "label": "Усі пакети",
+      "popularity": "Класика",
       "url": "../packs/switzerland.html",
       "type": "Елітний"
     },
@@ -28,7 +28,7 @@
       "title": "Норвегія",
       "description": "Спостерігайте за північним сяйвом і досліджуйте льодовики та фіорди.",
       "image": "../img/card-json4.png",
-      "label": "Усі пакети",
+      "popularity": "Новинка",
       "url": "../packs/norway.html",
       "type": "Стандарт"
     },
@@ -36,7 +36,7 @@
       "title": "Канада",
       "description": "Відчуйте дух дикої природи в горах, на льодовиках і в засніжених містах.",
       "image": "../img/card-json5.png",
-      "label": "Усі пакети",
+      "popularity": "Хіт сезону",
       "url": "../packs/canada.html",
       "type": "Преміум"
     },
@@ -44,7 +44,7 @@
       "title": "Ісландія",
       "description": "Вирушайте до країни вулканів, льодовиків і геотермальних джерел — ідеально для зимової пригоди.",
       "image": "../img/card-json6.png",
-      "label": "Усі пакети",
+      "popularity": "Новинка",
       "url": "../packs/iceland.html",
       "type": "Елітний"
     }
