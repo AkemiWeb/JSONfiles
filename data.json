@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "title": "Україна",
+      "description": "Зануртесь у мальовничі Карпати, старовинні міста та традиційну гостинність.",
+      "image": "https://raw.githubusercontent.com/cccIxv/kyrsova/main/img/card-json.png",
+      "label": "Усі пакети",
+      "type": "Економ"
+    },
+    {
+      "title": "Австрія",
+      "description": "Катайтеся на лижах у Тіролі та насолоджуйтесь чарівною атмосферою Відня.",
+      "image": "https://raw.githubusercontent.com/cccIxv/kyrsova/main/img/card-json1.png",
+      "label": "Усі пакети",
+      "type": "Преміум"
+    },
+    {
+      "title": "Швейцарія",
+      "description": "Відкрийте засніжені Альпи, затишні шале та смакуйте справжній швейцарський шоколад.",
+      "image": "https://raw.githubusercontent.com/cccIxv/kyrsova/main/img/card-json2.png",
+      "label": "Усі пакети",
+      "type": "Елітний"
+    },
+    {
+      "title": "Норвегія",
+      "description": "Спостерігайте за північним сяйвом і досліджуйте льодовики та фіорди.",
+      "image": "https://raw.githubusercontent.com/cccIxv/kyrsova/main/img/card-json3.png",
+      "label": "Усі пакети",
+      "type": "Стандарт"
+    },
+    {
+      "title": "Канада",
+      "description": "Відчуйте дух дикої природи в горах, на льодовиках і в засніжених містах.",
+      "image": "https://raw.githubusercontent.com/cccIxv/kyrsova/main/img/card-json4.png",
+      "label": "Усі пакети",
+      "type": "Преміум"
+    }
+  ]
+}
